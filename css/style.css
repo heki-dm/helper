@@ -1,0 +1,15 @@
+/* style.css */
+html{
+    font-size: 15pt;
+}
+footer{
+    text-align: center;
+}
+
+.menu{
+    background-color: rgb(172, 172, 172);
+}
+
+.menu:hover{
+    background-color: gold;
+}
